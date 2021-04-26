@@ -1,5 +1,5 @@
 
-ÖDEVİN KONUSU: Boyutu 1GB'den büyük olan dosyaları bulmak ve bu dosyaları taşımak.
+ÖDEVİN KONUSU VE TARİHİ: Boyutu 1GB'den büyük olan dosyaları bulmak ve bu dosyaları taşımak.(04/04/2021)
 
 Bulmak için öncelikle find komutu kullanmalıyız:
 
