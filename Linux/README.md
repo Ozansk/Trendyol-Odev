@@ -1,7 +1,7 @@
 
-ÖDEVİN KONUSU:
+ÖDEVİN KONUSU: Boyutu 1GB'den büyük olan dosyaları bulmak ve bu dosyaları taşımak.
 
-Boyutu 1GB'den büyük olan dosyaları bulmak ve bu dosyaları taşımak. Bulmak için öncelikle find komutu kullanmalıyız:
+Bulmak için öncelikle find komutu kullanmalıyız:
 
 `sudo find / -type f -size +1G` // -type ile birlikte aradığımızın bir dosya olduğunu belirttik. -size ile birlikte boyutunu belirttik.
 
