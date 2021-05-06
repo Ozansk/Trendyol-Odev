@@ -41,5 +41,5 @@ db02
   psql
     SELECT * FROM pg_replication_slots;
 ```
-  <img src= "pg_replication_slots"></img>
+  <img src= "pg_replication_slots.png"></img>
 
