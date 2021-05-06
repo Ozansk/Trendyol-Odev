@@ -34,5 +34,3 @@ db02
       --dbname="host=192.168.56.101 user=standby sslmode=disable"
     
     rm $PGDATA/log/*.log
-    
-    ```
