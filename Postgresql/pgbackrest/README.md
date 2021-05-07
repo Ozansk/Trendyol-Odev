@@ -1,4 +1,4 @@
-
+```
 root
   dnf install pgbackrest
   
@@ -58,3 +58,4 @@ root
 postgres
   pgbackrest --stanza=demo --type=incr \ --log-level-console=info backup
   
+```
